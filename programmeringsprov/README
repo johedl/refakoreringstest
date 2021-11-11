@@ -1,0 +1,13 @@
+
+
+Programmet:
+Programmet skapar upp ett antal geometriska former av en viss storlek och x/y koordinater.
+Sedan filtreras de som har ett avstånd på mindre än 1.
+Slutligen skrivs arean, x/y koordinaterna samt typen ner till XML för resterande former.
+
+Uppgiften:
+Efter kodgranskning har man beslutat ett programmet har en stor teknisk skuld. Man har även upptäckt att programmet krashar 50% av gångerna.
+Du har ombetts att förbättra programmet och har fria tyglar att göra de ändringar som krävs för att göra programmet bättre.
+
+OBS:
+Inga externa beroenden får användas
